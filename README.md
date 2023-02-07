@@ -10,6 +10,8 @@ I wrote more about me here: [danilogb.github.io](https://danilogb.github.io)
 <!-- ## Latest posts -->
 ### **Latest posts**
 <!-- BLOG-POST-LIST:START -->
+- [Social Network Analysis and NLP of tweets](https://danilogb.github.io/2023/02/03/tweets_sna.html)
+- [TweetGrab](https://danilogb.github.io/2023/01/17/tweetgrab.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Tools of the trade**
