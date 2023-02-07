@@ -1,23 +1,19 @@
-<style>
-/* body {background-color: powderblue;} */
-h1   {color: #628FDB; font-size:21px; font-weight: bold;}
-/* p    {color: red;} */
-</style>
 
-<body>
-<font color="#B185E0" size="6pt"> Hello, World!</font>
+<font style="font-size:21px; color:#B185E0; font-weight:bold;"> Hello, World! </font>
 
 I am Danilo Brandão, an engineer transitioning into a career in Data Science.\
 Currently finishing my Master's in Data Science and Engineering at the University of Porto.
 
-You can read more about me here: [danilogb.github.io](https://danilogb.github.io)
+I wrote more about me here: [danilogb.github.io](https://danilogb.github.io)
 
-<h1>Latest posts</h1>
+
+<!-- ## Latest posts -->
+<font style="font-size:21px; color:#628FDB; font-weight:bold;">Latest posts</font>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- ## Tools of the trade -->
-<h1>Tools of the trade</h1>
+<font style="font-size:21px; color:#628FDB; font-weight:bold;">Tools of the trade</font>
+
 <img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width="50" height="50">&emsp;&emsp;
 <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50" height="50">&emsp;&emsp;
 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="50" height="50">&emsp;&emsp;
